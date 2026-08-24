@@ -102,3 +102,13 @@ Divide Payment
 Review Bill
   ↓
 Complete
+
+## Prototype
+
+The final interface and interaction flow were developed as an interactive prototype using Figma.
+
+### Interactive Prototype
+
+🔗 [View the LINE Split Bill Interactive Prototype](https://www.figma.com/proto/1pcBWxPnXIAISARYEz7O2r/LINE-LITE?page-id=0%3A1&node-id=1-2&viewport=159%2C-178%2C0.31&t=FDsN3qAA3td5YCiY-1&scaling=scale-down&starting-point-node-id=1%3A2)
+
+The prototype demonstrates the proposed user flow from Pre Bill to Split Bill.
