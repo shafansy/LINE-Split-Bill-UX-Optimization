@@ -80,6 +80,12 @@ The feature helps users keep track of individual orders, making it easier to det
 The Split Bill flow is connected to the Pre Bill process so that users can divide the final payment based on the orders that have already been recorded.
 This approach aims to reduce confusion and make the bill-splitting process more organized.
 
+### Interactive Prototype
+
+🔗 [View the LINE Split Bill Interactive Prototype](https://www.figma.com/proto/1pcBWxPnXIAISARYEz7O2r/LINE-LITE?page-id=0%3A1&node-id=1-2&viewport=159%2C-178%2C0.31&t=FDsN3qAA3td5YCiY-1&scaling=scale-down&starting-point-node-id=1%3A2)
+
+The prototype demonstrates the proposed user flow from Pre Bill to Split Bill.
+
 ---
 
 ## User Flow
@@ -107,8 +113,4 @@ Complete
 
 The final interface and interaction flow were developed as an interactive prototype using Figma.
 
-### Interactive Prototype
 
-🔗 [View the LINE Split Bill Interactive Prototype](https://www.figma.com/proto/1pcBWxPnXIAISARYEz7O2r/LINE-LITE?page-id=0%3A1&node-id=1-2&viewport=159%2C-178%2C0.31&t=FDsN3qAA3td5YCiY-1&scaling=scale-down&starting-point-node-id=1%3A2)
-
-The prototype demonstrates the proposed user flow from Pre Bill to Split Bill.
